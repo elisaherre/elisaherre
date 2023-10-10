@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React🤍
 - 🤓 I’m looking to collaborate on exciting projects!
 - 📫 How to reach me elisaherrera903@gmail.com
+- 🎨 Visit my portfolio site https://elisaherre.github.io/elisaherrera.github.io/
 
 <!---
 elisaherre/elisaherre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
